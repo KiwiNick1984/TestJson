@@ -1,17 +1,26 @@
 {
-  "posts": 
-  [
+"Trucks":
+[   
     {
-      "ID": 1,
-      "TruckNum": "qwe",
-      "TrailerТum": "asd",
-      "CulturaID": 3
+        "ID": 1,
+        "TruckNum": "ВН8888НП",
+        "TrailerТum": "ВН1111НП",
+        "CulturaID": 1,
+        "Condition": 0
     },
     {
-      "ID": 2,
-      "TruckNum": "qwe",
-      "TrailerТum": "asd",
-      "CulturaID": 3
+        "ID": 2,
+        "TruckNum": "ВН9999НП",
+        "TrailerТum": "ВН3333НП",
+        "CulturaID": 5,
+        "Condition": 1
+    },
+    {
+        "ID": 3,
+        "TruckNum": "ВН8888НП",
+        "TrailerТum": "ВН8888НП",
+        "CulturaID": 3,
+        "Condition": 2
     }
-  ]
+]
 }
