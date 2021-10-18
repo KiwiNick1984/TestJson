@@ -1,11 +1,14 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "ID": 1,
+    "TruckNumber": "ВН8888НП",
+    "TrailerТumber": "ВН9999НП",
+    "CulturaID": 3
+  },  
+  {
+    "ID": 2,
+    "TruckNumber": "ВН1111НП",
+    "TrailerТumber": "ВН2222НП",
+    "CulturaID": 2
   }
-}
+]
