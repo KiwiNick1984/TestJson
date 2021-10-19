@@ -66,6 +66,13 @@
         "TrailerТum": "ВН1111НП",
         "CulturaID": "Пшеница",
         "Condition": 0
+    },
+    {
+        "ID": 5,
+        "TruckNum": "ВН8888НП",
+        "TrailerТum": "ВН1111НП",
+        "CulturaID": "Пшеница",
+        "Condition": 0
     }
 ]
 }
