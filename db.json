@@ -1,5 +1,29 @@
 {
-"Trucks":
+"SRA1":
+[   
+    {
+        "ID": 1,
+        "TruckNum": "ВН8888НП",
+        "TrailerТum": "ВН1111НП",
+        "CulturaID": "Пшеница",
+        "Condition": 0
+    },
+    {
+        "ID": 2,
+        "TruckNum": "ВН9999НП",
+        "TrailerТum": "ВН3333НП",
+        "CulturaID": "Ячмень",
+        "Condition": 1
+    },
+    {
+        "ID": 3,
+        "TruckNum": "ВН8888НП",
+        "TrailerТum": "ВН8888НП",
+        "CulturaID": "Ячмень",
+        "Condition": 2
+    }
+]
+"SRA2":
 [   
     {
         "ID": 1,
